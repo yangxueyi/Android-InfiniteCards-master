@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Zhang\\Desktop\\Android-InfiniteCards-master\\infinite-cards\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 491,
+                    "endColumn": 40,
+                    "endOffset": 527
+                },
+                "from": {
+                    "file": "C:\\Users\\Zhang\\Desktop\\Android-InfiniteCards-master\\infinite-cards\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 40,
+                        "endOffset": 527
+                    }
+                }
+            }
+        ]
+    }
+]

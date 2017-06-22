@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Zhang\\Desktop\\Android-InfiniteCards-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\AS\\gradle-3.5.1-src\\gradle-3.5.1\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\056cf02c08306ddc2eedce5b2453d79c\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zhang\\Desktop\\Android-InfiniteCards-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\AS\\gradle-3.5.1-src\\gradle-3.5.1\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\056cf02c08306ddc2eedce5b2453d79c\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zhang\\Desktop\\Android-InfiniteCards-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\AS\\gradle-3.5.1-src\\gradle-3.5.1\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\056cf02c08306ddc2eedce5b2453d79c\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zhang\\Desktop\\Android-InfiniteCards-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\AS\\gradle-3.5.1-src\\gradle-3.5.1\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\056cf02c08306ddc2eedce5b2453d79c\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
